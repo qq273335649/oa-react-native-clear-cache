@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "github:sowlutions/react-native-clear-cache",
+      "/Users/maiya/oa-rn"
+    ]
+  ],
+  "_from": "github:sowlutions/react-native-clear-cache",
+  "_id": "react-native-clear-cache@github:sowlutions/react-native-clear-cache#2a0fba4cc2425f4d7c9aaf794cdd4aa3b81fe50d",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-clear-cache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:sowlutions/react-native-clear-cache",
+    "rawSpec": "github:sowlutions/react-native-clear-cache",
+    "saveSpec": "github:sowlutions/react-native-clear-cache",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:sowlutions/react-native-clear-cache#2a0fba4cc2425f4d7c9aaf794cdd4aa3b81fe50d",
+  "_spec": "github:sowlutions/react-native-clear-cache",
+  "_where": "/Users/maiya/oa-rn",
+  "author": {
+    "name": "Sowlutions Inc.",
+    "email": "tech@sowlutions.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sowlutions/react-native-clear-cache/issues"
+  },
+  "description": "TODO",
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  },
+  "homepage": "https://github.com/sowlutions/react-native-clear-cache#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "main": "index.js",
+  "name": "oa-react-native-clear-cache",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowlutions/react-native-clear-cache.git",
+    "baseUrl": "https://github.com/sowlutions/react-native-clear-cache"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "React Native Clear Cache",
+  "version": "1.0.0"
+}
