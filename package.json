@@ -30,14 +30,14 @@
     "email": "tech@sowlutions.com"
   },
   "bugs": {
-    "url": "https://github.com/sowlutions/react-native-clear-cache/issues"
+    "url": "https://github.com/qq273335649/oa-react-native-clear-cache/issues"
   },
   "description": "TODO",
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
   },
-  "homepage": "https://github.com/sowlutions/react-native-clear-cache#readme",
+  "homepage": "https://github.com/qq273335649/oa-react-native-clear-cache",
   "keywords": [
     "react-native"
   ],
@@ -51,12 +51,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sowlutions/react-native-clear-cache.git",
-    "baseUrl": "https://github.com/sowlutions/react-native-clear-cache"
+    "url": "git+https://github.com/qq273335649/oa-react-native-clear-cache.git",
+    "baseUrl": "https://github.com/qq273335649/oa-react-native-clear-cache"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "title": "React Native Clear Cache",
-  "version": "1.0.0"
+  "version": "1.0.3"
 }
